@@ -14,7 +14,7 @@ But since all this time I was pararallistically studying to become a software en
 At some point, I felt like I wasn't enough again. So came the understanding that it's time to move on and start learning the profession of Frontend Developer. Since I want not only to create a beautiful picture, but also to understand the further development of sites and applications. I am sure that this is a very exciting way and all my previous experience will be able to help me.
 
 ## My Skills
-===
+
 * HTML5, CSS3
 * JavaScript Basics
 * Git, GitHub
@@ -22,15 +22,19 @@ At some point, I felt like I wasn't enough again. So came the understanding that
 * Adobe Photoshop, Illustrator, InDesign, CorelDRAW, Figma
 
 ## Education
-===
+
 MIDO BNTU 
 Information systems and technologies (2013 - 2017)
 
 ## **Code examples**
 
-@@ -31,8 +31,8 @@ function greet(name){
+```
+function greet(name){
+  return `Hello, ${name} how are you doing today?`;
+}
+```
 
 ## Foreign languages
-===
+
 * English(A2)
 * German(B1)
