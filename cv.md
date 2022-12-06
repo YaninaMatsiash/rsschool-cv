@@ -1,9 +1,8 @@
 ## Yanina Matsiash
 Junior Frontend Developer
 ===
-Contact information
-* * 
-Pchone: +49 162 719 74 51
+## Contact information
+Phone: +49 162 719 74 51
 E-mail: [yanina.matyash@gmail.com](yanina.matyash@gmail.com)
 [Behans](https://www.behance.net/janinamatsiash)
 ## Briefly About Myself:
@@ -21,6 +20,10 @@ At some point, I felt like I wasn't enough again. So came the understanding that
 * VS Code
 * Adobe Photoshop, Illustrator, InDesign, CorelDRAW, Figma
 
+## Education
+* * 
+MIDO BNTU 
+Information systems and technologies (2013 - 2017)
 
 ## Foreign languages
 * * 
