@@ -1,2 +1,2 @@
 # https://YaninaMatsiash.github.io/rsschool-cv/cv
-# https://YaninaMatsiash.github.io/rsschool-cv/index
+# https://YaninaMatsiash.github.io/rsschool-cv/index.html
